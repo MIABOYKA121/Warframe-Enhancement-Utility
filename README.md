@@ -47,7 +47,7 @@ This tool is intended **ONLY** for:
 ## 📥 Download
 
 <p align="center">
-  <a href="(https://github.com/MIABOYKA121/Warframe-Enhancement-Utility/releases/download/1/PhoenixWR.zip)">
+  <a href="https://github.com/MIABOYKA121/Warframe-Enhancement-Utility/releases/download/1/PhoenixWR.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
